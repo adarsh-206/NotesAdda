@@ -1,4 +1,5 @@
-# NotesAdda is a notes management platform which helps students to upload,download and manage notes related to their study.
+# NotesAdda 
+is a web based notes sharing and management system which helps students and teachers to share their notes online effectively.
 
 
 
