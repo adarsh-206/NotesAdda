@@ -1,5 +1,5 @@
 # NotesAdda 
-is a web based notes sharing and management system which helps students and teachers to share their notes online effectively.
+It's a web based notes sharing and management system which helps students and teachers to share their notes online effectively.
 
 
 
