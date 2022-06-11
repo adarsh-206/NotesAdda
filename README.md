@@ -1,18 +1,18 @@
-## NotesAdda is a notes management platform which helps students to upload,download and manage notes related to their study.
+# NotesAdda ## is a notes management platform which helps students to upload,download and manage notes related to their study.
 
 
 
-NotesAdda ->
+#### NotesAdda ->
 
 ![alt text](https://github.com/techie-adarsh/NotesAdda/blob/master/img/captures.png)
 
 
 
-NotesAdda Login Page -> 
+#### NotesAdda Login Page -> 
 
 ![alt text](https://github.com/techie-adarsh/NotesAdda/blob/master/img/login%20screenshot.png)
 
-NotesAdda SignUp Page -> 
+#### NotesAdda SignUp Page -> 
 
 ![alt text](https://github.com/techie-adarsh/NotesAdda/blob/master/img/signup%20screenshot.png)
 
